@@ -8,6 +8,7 @@ I took initiative in designing co-creation canvases for the creation of social r
 - Structuring the design process into logical parts
 - Making explicit design decisions (questioning assumptions)
 - Enabling ethical considerations before building a solution
+
 The framework follows the process of first defining the problem space, after which design guidelines are created, which project the qualities of the problem space onto the solution space, in order to ensure purposeful design.
 
 The framework can be used to think about social robot design problems, to design an entirely new robot, or to modify or select an existing robot to answer a particular problem.
@@ -32,10 +33,12 @@ I created a series of 8 canvases, which can be printed out and used in co-creati
 
 If the co-design group has only very little time, these 4 canvases can be replaced with the canvas
 - MVP of the robot
+
 referring to minimum viable product, although this canvas is recommended for playful use only.
 
 # Sessions can be structured in two ways:
 Individuals have 10 minutes to consider their own thoughts on the canvas first, after which they can collaborate and discuss their thoughts for 10 minutes.
+
 Teams can collaborate simultaneously for 10-15 minutes per canvas.
 Choosing the method depends on the time slot available. In order for introverts to be able to participate more easily, the first method is usually preferred. Canvases should be used in an iterative manner, and to explore each iteration of the robot as it is being created.
 
