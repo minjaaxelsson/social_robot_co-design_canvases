@@ -9,7 +9,7 @@ I took initiative in designing co-creation canvases for the creation of social r
 - Making explicit design decisions (questioning assumptions)
 - Enabling ethical considerations before building a solution
 
-The canvases follow the process of first defining the problem space, after which design guidelines are created, which project the qualities of the problem space onto the solution space, in order to ensure purposeful design. To see a brief review of this design framework, please refer to the file "design_Framework.pdf".
+The canvases follow the process of first defining the problem space, after which design guidelines are created, which project the qualities of the problem space onto the solution space, in order to ensure purposeful design. To see a brief review of this design framework, please refer to the file "design_framework.pdf".
 
 The canvases can be used to think about social robot design problems, to design an entirely new robot, or to modify or select an existing robot to answer a particular problem.
 
