@@ -12,6 +12,8 @@ The framework follows the process of first defining the problem space, after whi
 
 The framework can be used to think about social robot design problems, to design an entirely new robot, or to modify or select an existing robot to answer a particular problem.
 
+For the framework process, please refer to the file "design_framework_process.pdf". First, the problem space is defined, which is then projected onto the solution space via design guidelines.
+
 #THE SOLUTION
 I created a series of 8 canvases, which can be printed out and used in co-creation sessions. The canvases are grouped as follows:
 
