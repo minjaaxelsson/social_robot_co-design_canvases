@@ -40,6 +40,7 @@ referring to minimum viable product, although this canvas is recommended for pla
 - Individuals have 10 minutes to consider their own thoughts on the canvas first, after which they can collaborate and discuss their thoughts for 10 minutes.
 
 - Teams can collaborate simultaneously for 10-15 minutes per canvas.
+
 Choosing the method depends on the time slot available. In order for introverts to be able to participate more easily, the first method is usually preferred. Canvases should be used in an iterative manner, and to explore each iteration of the robot as it is being created.
 
 Canvases can also be used independently for building and analyzing social robots.
