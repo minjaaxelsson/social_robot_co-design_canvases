@@ -1,6 +1,6 @@
-#Social Robot Co-Design Canvases
+# Social Robot Co-Design Canvases
 
-#THE PROBLEM
+# THE PROBLEM
 
 I took initiative in designing co-creation canvases for the creation of social robots. I discovered the problem of lack of these tools during my master's thesis. The canvases aim to solve the problems of:
 
@@ -16,11 +16,11 @@ The canvases can be used to think about social robot design problems, to design 
 
 For the instructions on how to use the canvases, please refer to the file "robot_canvas_instructions.pdf".
 
-#THE SOLUTION
+# THE SOLUTION
 
 I created a series of 8 canvases, which can be printed out and used in co-creation sessions. The canvases are grouped as follows:
 
-#Phase 1: Problem space
+# Phase 1: Problem space
 - Problem space of designing a robot
 - Ethical considerations of a robot
 
@@ -39,7 +39,7 @@ If the co-design group has only very little time, these 4 canvases can be replac
 
 referring to minimum viable product, although this canvas is recommended for playful use only.
 
-#Sessions can be structured in two ways:
+# Sessions can be structured in two ways:
 
 - Individuals have 10 minutes to consider their own thoughts on the canvas first, after which they can collaborate and discuss their thoughts for 10 minutes.
 - Teams can collaborate simultaneously for 10-15 minutes per canvas.
@@ -48,7 +48,7 @@ Choosing the method depends on the time slot available. In order for introverts 
 
 Canvases can also be used independently for building and analyzing social robots.
 
-#THE OUTCOME
+# THE OUTCOME
 
 The canvases have been used in workshops with interested people across domains, in order to help them learn about the emerging technology of social robots, to demystify the sometimes negative media connotations of robotics, and to help in considering important ethical questions.
 
