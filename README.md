@@ -1,5 +1,8 @@
 # Social Robot Co-Design Canvases
 
+Social Robot Design Toolkit free version by Minja Axelsson is licensed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Sponsored by Futurice.
+
+
 # THE PROBLEM
 
 I took initiative in designing co-creation canvases for the creation of social robots. I discovered the problem of lack of these tools during my master's thesis. The canvases aim to solve the problems of:
