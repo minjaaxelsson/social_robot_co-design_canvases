@@ -1,17 +1,25 @@
 # Social Robot Co-Design Canvases
 
-Social Robot Design Toolkit free version by Minja Axelsson is licensed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Sponsored by Futurice.
+Social Robot Co-Design Canvases free version by Minja Axelsson is licensed under a Creative Commons Attributions-ShareAlike 4.0 International (CC BY-SA 4.0) license. Sponsored by Futurice.
 
 
-# THE PROBLEM
+# What are the canvases used for?
 
-I took initiative in designing co-creation canvases for the creation of social robots. I discovered the problem of lack of these tools during my master's thesis. The canvases aim to solve the problems of:
+The canvases can be used by multidisciplinary teams to design social robots. They can also be used to learn about the design of social robots, and to analyze and compare existing social robots.
 
-- Enabling co-design
-- Involving users, and experts of different domains by bringing a common language into robotics
+The canvases provide the following benefits:
+- Enabling co-design with a tangible tool
+- Involving users and experts of different domains by bringing a common language into robotics
 - Structuring the design process into logical parts
-- Making explicit design decisions (questioning assumptions)
+- Making design decisions explicit, which helps question assumptions
 - Enabling ethical considerations before building a solution
+
+
+# How do they work?
+
+You can print the canvases as A3 or A1 sizes. Refer to the "robot_canvases_instructions_v2.pdf" file to see which canvases you should use.
+
+The canvases follow the process of problem space, design guidelines, and solution space. This is illustrated in the file "design_framework.pdf".
 
 The canvases follow the process of first defining the problem space, after which design guidelines are created, which project the qualities of the problem space onto the solution space, in order to ensure purposeful design. To see a brief review of this design framework, please refer to the file "design_framework.pdf".
 
@@ -19,49 +27,55 @@ The canvases can be used to think about social robot design problems, to design 
 
 For the instructions on how to use the canvases, please refer to the file "robot_canvas_instructions.pdf".
 
-# THE SOLUTION
+The canvases are grouped as follows:
 
-I created a series of 8 canvases, which can be printed out and used in co-creation sessions. The canvases are grouped as follows:
+## Phase 1: Problem space
+- 01: Problem space of designing a robot
+- 02: Ethical considerations of a robot
 
-# Phase 1: Problem space
-- Problem space of designing a robot
-- Ethical considerations of a robot
+## Phase 2: Design guidelines
+- 03: Design guidelines of the robot
 
-# Phase 2: Design guidelines
-- Design guidelines of the robot
+## Phase 3: Solution space
 
-# Phase 3: Solution space
-- Environment of the robot
-- Form of the robot
-- Interaction of the robot
-- Behaviour of the robot
+### Path 1:
+If the design team only needs a quick draft of the robot, use this path.
 
-If the co-design group has only very little time, these 4 canvases can be replaced with the canvas
+Canvases:
+- 04: MVP of the robot
 
-- MVP of the robot
+### Path 2:
+When designing your final product, use these canvases:
+- 05: Environment of the robot
+- 06: Form of the robot
+- 07: Interaction of the robot
+- 08: Behaviour of the robot
 
-referring to minimum viable product, although this canvas is recommended for playful use only.
+Additionally, the following canvases can be used to design more in-depth.
+- 09: Service ecosystem of the robot
+- 10: Experience flow of the robot
 
-# Sessions can be structured in two ways:
 
-- Individuals have 10 minutes to consider their own thoughts on the canvas first, after which they can collaborate and discuss their thoughts for 10 minutes.
-- Teams can collaborate simultaneously for 10-15 minutes per canvas.
+## Structuring design sessions
 
-Choosing the method depends on the time slot available. In order for introverts to be able to participate more easily, the first method is usually preferred. Canvases should be used in an iterative manner, and to explore each iteration of the robot as it is being created.
+There are two methods:
+- Individuals have 10 minutes to consider their own thoughts on the canvas first, after which they can collaborate and discuss their thoughts for 10-20 minutes.
+- Teams can collaborate simultaneously for 20-30 minutes per canvas.
 
-Canvases can also be used independently for building and analyzing social robots.
+Choosing the method depends on the time slot available. In order for introverts to be able to participate more easily, the first method is preferred.
 
-# THE OUTCOME
+During the building of the robot, the canvases should be used in an iterative manner. Each iteration of the build should be evaluated with users and experts, and the design refined based on feedback. 
 
-The canvases have been used in workshops with interested people across domains, in order to help them learn about the emerging technology of social robots, to demystify the sometimes negative media connotations of robotics, and to help in considering important ethical questions.
 
-Some feedback form participants:
+# How have the canvases been used before?
 
+The canvases have been used by multidisciplinary teams, to design e.g. a robot that guides people to books at a library, and a robot that played games with teenagers online. Both robots were designed by multidisciplinary teams, consisting of roboticist, domain experts, and future users of the robots.
+
+The canvases have also been used in social robot design workshops, where participants learn about social robots.
+
+Some feedback from people who have used the canvases:
 - "Useful to approach the problem from different angles, using each group member's different skills to think of new ideas and concepts"
 - "The canvas helps to enhance one's own imagination, bringing forth ideas that the group would have probably not come up with otherwise."
 - "The canvases helped keep to the process, helped the group stay focused."
 - "I enjoyed thinking about the ethical questions, it's good to think about them. In a way it reveals some of my own biases."
 
-More explanation with photos here: http://minjaaxelsson.com/projects/co-creation-canvases-for-the-design-of-social-robots
-
-More thorough explanation coming soon!
