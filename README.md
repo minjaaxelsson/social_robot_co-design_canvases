@@ -67,6 +67,15 @@ Choosing the method depends on the time slot available. In order for introverts 
 During the building of the robot, the canvases should be used in an iterative manner. Each iteration of the build should be evaluated with users and experts, and the design refined based on feedback. 
 
 
+# The example canvases
+
+The example canvases feature a robot designed to guide users to books and book categories in Helsinki's (Finland's capital city) central library Oodi. 
+
+The robot was designed together with Oodi's librarians, Oodi's customers, and Futurice's roboticists. The canvases are filled in based on the results of a co-design workshop, with small edits done to correspond to the current design of the robot. The robot is being pilot tested at Oodi library in Fall 2019.
+
+[You can read more about the robot and the project here](https://bit.ly/32PsSR7)
+
+
 # How have the canvases been used before?
 
 The canvases have been used by multidisciplinary teams, to design e.g. a robot that guides people to books at a library, and a robot that played games with teenagers online. Both robots were designed by multidisciplinary teams, consisting of roboticist, domain experts, and future users of the robots.
