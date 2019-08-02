@@ -73,7 +73,7 @@ The example canvases feature a robot designed to guide users to books and book c
 
 The robot was designed together with Oodi's librarians, Oodi's customers, and Futurice's roboticists. The canvases are filled in based on the results of a co-design workshop, with small edits done to correspond to the current design of the robot. The robot is being pilot tested at Oodi library in Fall 2019.
 
-[You can read more about the robot and the project here](https://bit.ly/32PsSR7)
+[You can read more about the library robot and the project here.](https://bit.ly/32PsSR7)
 
 
 # How have the canvases been used before?
