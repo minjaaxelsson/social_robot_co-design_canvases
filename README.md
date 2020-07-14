@@ -17,7 +17,7 @@ The canvases provide the following benefits:
 
 # How do they work?
 
-You can print the canvases as A3 or A1 sizes. Refer to the "robot_canvases_instructions_v2.pdf" file to see which canvases you should use.
+You can print the canvases as A3 or A1 sizes. Refer to the "robot_canvases_instructions_v3.pdf" file to see which canvases you should use.
 
 The canvases follow the process of problem space, design guidelines, and solution space. This is illustrated in the file "design_framework.pdf".
 
@@ -25,7 +25,7 @@ The canvases follow the process of first defining the problem space, after which
 
 The canvases can be used to think about social robot design problems, to design an entirely new robot, or to modify or select an existing robot to answer a particular problem.
 
-For the instructions on how to use the canvases, please refer to the file "robot_canvas_instructions.pdf".
+For the instructions on how to use the canvases, please refer to the file "robot_canvas_instructions_v3.pdf".
 
 The canvases are grouped as follows:
 
