@@ -14,7 +14,7 @@ The canvases are intended to be built on top of. However, referencing should be 
 
 "This work builds on top of the original work of Minja Axelsson’s Social Robot Co-Design canvases which can be found at https://osf.io/jg2t8/ (Minja Axelsson. 2020. Social Robot Co-Design Canvases. https://doi.org/10.17605/OSF.IO/JG2T8) The canvases are shared here with a CC BY-SA 4.0 license."
 
-Note that the CC BY-SA 4.0 license contains the following text: "ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original." This means any work that builds on top of my original work must be shared with the CC BY-SA 4.0 license, as well as refer to the original work.
+Note that the CC BY-SA 4.0 license contains the following text: "**ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original." This means any work that builds on top of my original work must be shared with the CC BY-SA 4.0 license, as well as refer to the original work.
 
 
 # What are the canvases used for?
