@@ -2,36 +2,43 @@
 
 Social Robot Co-Design Canvases free version by Minja Axelsson is licensed under a [Creative Commons Attributions-ShareAlike 4.0 International (CC BY-SA 4.0) license.](https://creativecommons.org/licenses/by-sa/4.0/) Sponsored by Futurice.
 
+Cite as:
+
+**Minja Axelsson. 2020. Social Robot Co-Design Canvases. https://doi.org/10.17605/OSF.IO/JG2T8**
+
+A journal article on the canvases is to be published in Transactions on Human-Robot Interaction. Please contact the authors for a copy. Citation:
+
+**Minja Axelsson, Raquel Oliveira, Mattia Racca, and Ville Kyrki. 2021. Social Robot Co-Design Canvases: a Participatory Design Framework. To appear in the ACM Trans. Hum.-Robot Interact., 40 pages.**
+
 # Referring to the canvases if you build on top of them
 
 The canvases are intended to be built on top of. However, referencing should be done properly.
 
-- If you are **writing an article or other publication, thesis, or blog**, you should refer to my original work like this:
+ - If you are **writing an article or other publication, thesis, or blog**, you should refer to my original work like this:
 
-"This work builds on top of the original work of Minja Axelsson’s Social Robot Co-Design canvases which can be found at https://osf.io/jg2t8/ (Minja Axelsson. 2020. Social Robot Co-Design Canvases. https://doi.org/10.17605/OSF.IO/JG2T8)"
+"This work builds on top of the original work of Minja Axelsson’s Social Robot Co-Design canvases which can be found at https://osf.io/jg2t8/ (Minja Axelsson. 2020. Social Robot Co-Design Canvases.   https://doi.org/10.17605/OSF.IO/JG2T8)"
 
-- If you are **publishing PDFs or other files of canvases or other tools that build on top of my original work**, you should refer to my original work like this:
+- If you are publishing **PDFs or other files of canvases or other tools that build on top of my original work**, you should refer to my original work like this:
 
-"This work builds on top of the original work of Minja Axelsson’s Social Robot Co-Design canvases which can be found at https://osf.io/jg2t8/ (Minja Axelsson. 2020. Social Robot Co-Design Canvases. https://doi.org/10.17605/OSF.IO/JG2T8) The canvases are shared here with a CC BY-SA 4.0 license."
+"This work builds on top of the original work of Minja Axelsson’s Social Robot Co-Design canvases which can be found at https://osf.io/jg2t8/ (Minja Axelsson. 2020. Social Robot Co-Design Canvases.   https://doi.org/10.17605/OSF.IO/JG2T8) The canvases are shared here with a CC BY-SA 4.0 license."
 
 Note that the CC BY-SA 4.0 license contains the following text: "**ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original." This means any work that builds on top of my original work must be shared with the CC BY-SA 4.0 license, as well as refer to the original work.
-
 
 # What are the canvases used for?
 
 The canvases can be used by multidisciplinary teams to design social robots. They can also be used to learn about the design of social robots, and to analyze and compare existing social robots.
 
 The canvases provide the following benefits:
-- Enabling co-design with a tangible tool
-- Involving users and experts of different domains by bringing a common language into robotics
-- Structuring the design process into logical parts
-- Making design decisions explicit, which helps question assumptions
+- Providing structure, clarity and a clear process to the design
+- Encouraging designers and users to share their viewpoints in order to progress toward a shared one
+- Providing an educational and enjoyable design experience for the teams
+- Bringing a common language into robotics
 - Enabling ethical considerations before building a solution
 
 
 # How do they work?
 
-You can print the canvases as A3 or A1 sizes. Refer to the "robot_canvases_instructions_v3.pdf" file to see which canvases you should use.
+You can print the canvases as A4, A3, or A1 sizes. Refer to the "design_path.pdf" file to see which canvases to apply in your design process.
 
 The canvases follow the process of problem space, design guidelines, and solution space. This is illustrated in the file "design_framework.pdf".
 
@@ -83,7 +90,7 @@ During the building of the robot, the canvases should be used in an iterative ma
 
 # The example canvases
 
-The example canvases (file "robot_canvases_v2_examples_oodi_library_robot.pdf") feature a robot designed to guide users to books and book categories in Helsinki's (Finland's capital city) central library Oodi. 
+The example canvases (file "robot_canvases_v3_examples_oodi_library_robot.pdf") feature a robot designed to guide users to books and book categories in Helsinki's (Finland's capital city) central library Oodi. 
 
 The robot was designed together with Oodi's librarians, Oodi's customers, and Futurice's roboticists. The canvases are filled in based on the results of a co-design workshop, with small edits done to correspond to the current design of the robot. The robot is being pilot tested at Oodi library in Fall 2019.
 
@@ -97,7 +104,7 @@ The canvases have been used by multidisciplinary teams, to design e.g. a robot t
 The canvases have also been used in social robot design workshops, where participants learn about social robots.
 
 Some feedback from people who have used the canvases:
-- "Useful to approach the problem from different angles, using each group member's different skills to think of new ideas and concepts"
+- "Useful to approach the problem from different angles, using each group member's different skills to think of new ideas and concepts."
 - "The canvas helps to enhance one's own imagination, bringing forth ideas that the group would have probably not come up with otherwise."
 - "The canvases helped keep to the process, helped the group stay focused."
 - "I enjoyed thinking about the ethical questions, it's good to think about them. In a way it reveals some of my own biases."
