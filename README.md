@@ -1,6 +1,6 @@
 # Social Robot Co-Design Canvases
 
-Social Robot Co-Design Canvases free version by Minja Axelsson is licensed under a [Creative Commons Attributions-ShareAlike 4.0 International (CC BY-SA 4.0) license.](https://creativecommons.org/licenses/by-sa/4.0/) Sponsored by Futurice.
+Social Robot Co-Design Canvases (SoRoCo Canvases) free version by Minja Axelsson is licensed under a [Creative Commons Attributions-ShareAlike 4.0 International (CC BY-SA 4.0) license.](https://creativecommons.org/licenses/by-sa/4.0/) Sponsored by Futurice.
 
 Cite as:
 
