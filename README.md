@@ -4,11 +4,9 @@ Social Robot Co-Design Canvases free version by Minja Axelsson is licensed under
 
 Cite as:
 
-**Minja Axelsson. 2020. Social Robot Co-Design Canvases. https://doi.org/10.17605/OSF.IO/JG2T8**
+**Axelsson, M., Oliveira, R., Racca, M., & Kyrki, V. (2021). Social robot co-design canvases: A participatory design framework. ACM Transactions on Human-Robot Interaction (THRI), 11(1), 1-39.**
 
-A journal article on the canvases is to be published in Transactions on Human-Robot Interaction. Please contact the authors for a copy. Citation:
-
-**Minja Axelsson, Raquel Oliveira, Mattia Racca, and Ville Kyrki. 2021. Social Robot Co-Design Canvases: a Participatory Design Framework. To appear in the ACM Trans. Hum.-Robot Interact., 40 pages.**
+A [journal article](https://dl.acm.org/doi/10.1145/3472225) on the canvases has been published in Transactions on Human-Robot Interaction. Please contact the authors for a copy.
 
 # Referring to the canvases if you build on top of them
 
@@ -16,11 +14,11 @@ The canvases are intended to be built on top of. However, referencing should be 
 
  - If you are **writing an article or other publication, thesis, or blog**, you should refer to my original work like this:
 
-"This work builds on top of the original work of Minja Axelsson’s Social Robot Co-Design canvases which can be found at https://osf.io/jg2t8/ (Minja Axelsson. 2020. Social Robot Co-Design Canvases.   https://doi.org/10.17605/OSF.IO/JG2T8)"
+"This work builds on top of the original work of Minja Axelsson’s Social Robot Co-Design canvases which can be found at https://osf.io/jg2t8/ (Axelsson, M., Oliveira, R., Racca, M., & Kyrki, V. (2021). Social robot co-design canvases: A participatory design framework. ACM Transactions on Human-Robot Interaction (THRI), 11(1), 1-39.)"
 
 - If you are publishing **PDFs or other files of canvases or other tools that build on top of my original work**, you should refer to my original work like this:
 
-"This work builds on top of the original work of Minja Axelsson’s Social Robot Co-Design canvases which can be found at https://osf.io/jg2t8/ (Minja Axelsson. 2020. Social Robot Co-Design Canvases.   https://doi.org/10.17605/OSF.IO/JG2T8) The canvases are shared here with a CC BY-SA 4.0 license."
+"This work builds on top of the original work of Minja Axelsson’s Social Robot Co-Design canvases which can be found at https://osf.io/jg2t8/ (Axelsson, M., Oliveira, R., Racca, M., & Kyrki, V. (2021). Social robot co-design canvases: A participatory design framework. ACM Transactions on Human-Robot Interaction (THRI), 11(1), 1-39.) The canvases are shared here with a CC BY-SA 4.0 license."
 
 Note that the CC BY-SA 4.0 license contains the following text: "**ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original." This means any work that builds on top of my original work must be shared with the CC BY-SA 4.0 license, as well as refer to the original work.
 
