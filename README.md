@@ -40,11 +40,10 @@ You can print the canvases as A4, A3, or A1 sizes. Refer to the "design_path.pdf
 
 The canvases follow the process of problem space, design guidelines, and solution space. This is illustrated in the file "design_framework.pdf".
 
-The canvases follow the process of first defining the problem space, after which design guidelines are created, which project the qualities of the problem space onto the solution space, in order to ensure purposeful design. To see a brief review of this design framework, please refer to the file "design_framework.pdf".
+The canvases follow the process of first defining the problem space, after which design guidelines are created, which project the qualities of the problem space onto the solution space, in order to ensure purposeful design.
 
 The canvases can be used to think about social robot design problems, to design an entirely new robot, or to modify or select an existing robot to answer a particular problem.
 
-For the instructions on how to use the canvases, please refer to the file "robot_canvas_instructions_v3.pdf".
 
 The canvases are grouped as follows:
 
@@ -88,7 +87,7 @@ During the building of the robot, the canvases should be used in an iterative ma
 
 # The example canvases
 
-The example canvases (file "robot_canvases_v3_examples_oodi_library_robot.pdf") feature a robot designed to guide users to books and book categories in Helsinki's (Finland's capital city) central library Oodi. 
+The example canvases (file "robot_canvases_examples-oodi_library_robot.pdf") feature a robot designed to guide users to books and book categories in Helsinki's (Finland's capital city) central library Oodi. 
 
 The robot was designed together with Oodi's librarians, Oodi's customers, and Futurice's roboticists. The canvases are filled in based on the results of a co-design workshop, with small edits done to correspond to the current design of the robot. The robot is being pilot tested at Oodi library in Fall 2019.
 
